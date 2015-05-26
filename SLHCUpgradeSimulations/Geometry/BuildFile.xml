@@ -6,3 +6,4 @@
 <use   name="FWCore/ParameterSet"/>
 <use   name="boost"/>
 <flags   EDM_PLUGIN="1"/>
+#modification
